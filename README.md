@@ -3,3 +3,4 @@ This repository contains code for image based malware classification. I used qua
 
 
 - model_(77,53)_ch4: Base line model for malware image classification
+- QNI-ch4: Base-line model with QNI training
