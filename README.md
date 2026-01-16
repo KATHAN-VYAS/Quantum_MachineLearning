@@ -1,6 +1,6 @@
-# QNI-CCP: Adversarially Robust Hybrid Quantum Malware Detection
+# Adversarially Robust Hybrid Quantum Malware Detection
 
-This repository contains the implementation of **QNI-CCP (Quantum Noise Injection Class Center Perturbation)**, a hybrid Classical-Quantum framework designed for robust image-based malware detection. 
+This repository contains the implementation of **QNI-CCP (Quantum Noise Injection Class Center Perturbation)**, a hybrid Classical-Quantum framework designed for robust image-based malware detection. This was a collaborative work done during my internship at IIT Gandhinagar.
 
 The project demonstrates how injecting specific, sensitivity-weighted perturbations into the quantum latent space can harden Hybrid Quantum Neural Networks (HQNNs) against adversarial attacks and quantum noise.
 
