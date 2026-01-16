@@ -14,7 +14,7 @@ The project is divided into three progressive stages of implementation. Here is 
 | **`QML_QNI-CCP`** | **Robustness via Perturbation** | • Integrates the **QNI-CCP** mechanism<br>• Injects class-aware, sensitivity-weighted noise into the latent feature space<br>• Improves generalization and clean-data accuracy. |
 | **`QML_QNI-CCP_adv`** | **Full Adversarial Defense** | • Combines **QNI-CCP** with **Adversarial Training**<br>• Trains against active PGD (Projected Gradient Descent) and FGSM threats<br>• Delivers state-of-the-art robustness against adversarial attacks. |
 
-Note: Other files are used for experimenting with different parameters. The results in those files may not be important.
+#### Note: Other files are used for experimenting with different parameters. The results in those files may not be important.
 ---
 
 ## 🚀 Architecture Overview
